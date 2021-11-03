@@ -2,11 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fullstack/meu-primeiro-servidor-node" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ironhack-DA" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Studing" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data-prework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab-string-operations" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/langulski" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meu-primeiro-servidor-node" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pygame" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python-game-test" vcs="Git" />
   </component>

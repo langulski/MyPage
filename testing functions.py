@@ -1,4 +1,7 @@
-print('testing whats' )
+
+import sys
+print(sys.version)
+
 
 
 
