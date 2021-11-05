@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/MyPage/static/js/main.d54de55f.chunk.js",
+    "main.js.map": "/MyPage/static/js/main.d54de55f.chunk.js.map",
+    "runtime-main.js": "/MyPage/static/js/runtime-main.c16aa169.js",
+    "runtime-main.js.map": "/MyPage/static/js/runtime-main.c16aa169.js.map",
+    "static/css/2.41ebb63b.chunk.css": "/MyPage/static/css/2.41ebb63b.chunk.css",
+    "static/js/2.6cc228bd.chunk.js": "/MyPage/static/js/2.6cc228bd.chunk.js",
+    "static/js/2.6cc228bd.chunk.js.map": "/MyPage/static/js/2.6cc228bd.chunk.js.map",
+    "index.html": "/MyPage/index.html",
+    "static/css/2.41ebb63b.chunk.css.map": "/MyPage/static/css/2.41ebb63b.chunk.css.map",
+    "static/js/2.6cc228bd.chunk.js.LICENSE.txt": "/MyPage/static/js/2.6cc228bd.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/MyPage/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/MyPage/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Pygame.cf3b1562.JPG": "/MyPage/static/media/Pygame.cf3b1562.JPG",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/MyPage/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.02dae0c1.jpg": "/MyPage/static/media/about-page-img.02dae0c1.jpg",
+    "static/media/about-sec-img.728f3432.png": "/MyPage/static/media/about-sec-img.728f3432.png",
+    "static/media/chatbot.7c372b8c.PNG": "/MyPage/static/media/chatbot.7c372b8c.PNG",
+    "static/media/hero.442629a5.png": "/MyPage/static/media/hero.442629a5.png",
+    "static/media/machinelearn.e771839a.JPG": "/MyPage/static/media/machinelearn.e771839a.JPG",
+    "static/media/projectImg.771236e1.png": "/MyPage/static/media/projectImg.771236e1.png",
+    "static/media/pygame2.584d49d7.PNG": "/MyPage/static/media/pygame2.584d49d7.PNG",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/MyPage/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/sharkattack.6339754f.JPG": "/MyPage/static/media/sharkattack.6339754f.JPG",
+    "static/media/social-media-arrow.f5e093ce.svg": "/MyPage/static/media/social-media-arrow.f5e093ce.svg",
+    "static/media/webscrap.f19c8a4f.JPG": "/MyPage/static/media/webscrap.f19c8a4f.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c16aa169.js",
+    "static/css/2.41ebb63b.chunk.css",
+    "static/js/2.6cc228bd.chunk.js",
+    "static/js/main.d54de55f.chunk.js"
+  ]
+}
